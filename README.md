@@ -1,2 +1,3 @@
 # VSDSquadron-Mini-Research-
-VSDSquadron Mini Research Internship Program Status
+VSDSquadron Mini Research Internship 
+https://www.vlsisystemdesign.com/vsdsquadronmini/
