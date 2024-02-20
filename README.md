@@ -72,7 +72,7 @@ Introduction
 
   wave form 2 
 
-  ![wave form 2](https://github.com/Cjkiran/VSDSquadron-Mini-Research-/assets/123364901/fa490d00-2944-4fe8-8d96-3fea9e9610da
+  ![wave form 2](https://github.com/Cjkiran/VSDSquadron-Mini-Research-/assets/123364901/fa490d00-2944-4fe8-8d96-3fea9e9610da)
 
   wave form 3 
 
