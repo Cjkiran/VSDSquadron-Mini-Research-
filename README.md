@@ -45,9 +45,47 @@ Tools
 
 ![tools](https://github.com/Cjkiran/VSDSquadron-Mini-Research-/assets/123364901/81a6ab51-146e-4c52-aac7-c6d3e329713c)
 
-Q-flow manager 
+# Task 2 on 20/02/2024
 
-![Screenshot from 2024-02-19 12-51-14](https://github.com/Cjkiran/VSDSquadron-Mini-Research-/assets/123364901/353f8ae7-761a-43ea-8afb-5e71dd2b96a9)
+Introduction
+
+# Traffic Light Controller Using Verilog
+  The purpose of this project is to design a methodology using Verilog to control the traffic with specified time
+
+  # RTL Schematic View
+
+  ![smart-traffic-light-controller-using-verilog-4-2048](https://github.com/Cjkiran/VSDSquadron-Mini-Research-/assets/123364901/d8de9dfb-0e82-40c5-8690-5a3b33f8db94)
+
+  # system 
+  
+
+  <img width="329" alt="Screenshot 2024-02-20 225656" src="https://github.com/Cjkiran/VSDSquadron-Mini-Research-/assets/123364901/a39be9be-377f-45ec-bbf6-2ede9a193221">
+  
+
+  waveforms 
+
+  
+
+  wave form 1
+
+  ![wave form 1](https://github.com/Cjkiran/VSDSquadron-Mini-Research-/assets/123364901/fb2d6c0f-d836-433a-91a5-5c782b52a501)
+
+  wave form 2 
+
+  ![wave form 2](https://github.com/Cjkiran/VSDSquadron-Mini-Research-/assets/123364901/fa490d00-2944-4fe8-8d96-3fea9e9610da
+
+  wave form 3 
+
+  ![wave form 3](https://github.com/Cjkiran/VSDSquadron-Mini-Research-/assets/123364901/f7c054ea-5c75-4ea4-897f-68ac66c21e44)
+
+
+
+
+
+  
+
+  
+
 
 
 
