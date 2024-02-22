@@ -1,12 +1,14 @@
-# VSDSquadron-Mini-Research-
-VSDSquadron Mini Research Internship 
-https://www.vlsisystemdesign.com/vsdsquadronmini/
-![download](https://github.com/Cjkiran/VSDSquadron-Mini-Research-/assets/123364901/2fd8af66-cd7b-4a29-8f52-746250755172)  
+# VSDSquadron-Mini-Research- internship
+To learn more about the VSDSquadron Mini RISC-V internship projects, you have come to the right place. You will receive all the tools need to gain hands-on expertise with Mini RISC-V throughout the four weeks of this internship. 
+# VSDSQUADRON Mini Board
+![download](https://github.com/Cjkiran/VSDSquadron-Mini-Research-/assets/123364901/0a8e7a8c-3680-4139-9668-1d09c3c6b431)
+BOARD SPECS:
 
-BOARD SPECS
 
 
-<img width="397" alt="Screenshot 2024-02-19 222428" src="https://github.com/Cjkiran/VSDSquadron-Mini-Research-/assets/123364901/4bdc5d29-dce6-423f-b4aa-cbacc896c1ca">
+
+
+
 
 
 
