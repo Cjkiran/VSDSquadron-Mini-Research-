@@ -19,7 +19,22 @@ TASK 1
 
 4.install gtkwave
 
-CLONING RISC-V GNU TOOLCHAIN
+# CLONING RISC-V GNU TOOLCHAIN
+
+![Screenshot from 2024-02-19 11-39-58](https://github.com/Cjkiran/VSDSquadron-Mini-Research-/assets/123364901/3f1fa709-894a-4a25-9497-a5104b071cd4)
+
+![Screenshot from 2024-02-19 11-55-53](https://github.com/Cjkiran/VSDSquadron-Mini-Research-/assets/123364901/7d2b2de9-23a6-41f6-bb27-bf53b2dcb451)
+
+![tools](https://github.com/Cjkiran/VSDSquadron-Mini-Research-/assets/123364901/3622bec7-5884-4f6b-be38-43759cc7de50)
+
+Installing YOSYS
+
+![Screenshot from 2024-02-19 12-35-47](https://github.com/Cjkiran/VSDSquadron-Mini-Research-/assets/123364901/e3253415-f8fa-4de3-9700-184827460a80)
+
+
+
+
+
 
 
 
