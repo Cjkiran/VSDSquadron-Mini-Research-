@@ -7,6 +7,20 @@ BOARD SPECS:
 
 <img width="397" alt="Screenshot 2024-02-19 222428" src="https://github.com/Cjkiran/VSDSquadron-Mini-Research-/assets/123364901/f02604f0-daaa-4ea7-8fc5-f17dc1b2907a">
 
+The first online meet was held on 16th of Feb 2024 @6PM
+
+TASK 1
+
+1.install RISC-V GNU Toolchain
+
+2.install Yosys
+
+3.install iverilog
+
+4.install gtkwave
+
+CLONING RISC-V GNU TOOLCHAIN
+
 
 
 
