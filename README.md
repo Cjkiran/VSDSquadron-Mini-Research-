@@ -39,6 +39,10 @@ Identifying Input ports, input waveforms, output ports and output waveforms for 
 <img width="228" alt="Screenshot 2024-02-24 221836" src="https://github.com/Cjkiran/VSDSquadron-Mini-Research-/assets/123364901/1d67a707-a94e-442b-a4c6-8619973ab0ae">
 
  # wave forms 
+ ![wave form 31](https://github.com/Cjkiran/VSDSquadron-Mini-Research-/assets/123364901/b99e1ab3-448a-46aa-ab12-6cc53ed51f70)
+
+ # Task 3
+
 
 
 
