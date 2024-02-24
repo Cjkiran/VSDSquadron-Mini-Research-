@@ -25,6 +25,8 @@ TASK 1
 
 ![Screenshot from 2024-02-19 11-55-53](https://github.com/Cjkiran/VSDSquadron-Mini-Research-/assets/123364901/7d2b2de9-23a6-41f6-bb27-bf53b2dcb451)
 
+Tools 
+
 ![tools](https://github.com/Cjkiran/VSDSquadron-Mini-Research-/assets/123364901/3622bec7-5884-4f6b-be38-43759cc7de50)
 
 Installing YOSYS
