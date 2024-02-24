@@ -9,7 +9,7 @@ BOARD SPECS:
 
 The first online meet was held on 16th of Feb 2024 @6PM
 
-TASK 1
+# TASK 1
 
 1.install RISC-V GNU Toolchain
 
@@ -33,6 +33,8 @@ Installing YOSYS
 
 ![Screenshot from 2024-02-19 12-35-47](https://github.com/Cjkiran/VSDSquadron-Mini-Research-/assets/123364901/e3253415-f8fa-4de3-9700-184827460a80)
 
+# Task 2
+Identifying Input ports, input waveforms, output ports and output waveforms for your design.
 
 
 
