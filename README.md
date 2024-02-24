@@ -42,7 +42,22 @@ Identifying Input ports, input waveforms, output ports and output waveforms for 
  ![wave form 31](https://github.com/Cjkiran/VSDSquadron-Mini-Research-/assets/123364901/b99e1ab3-448a-46aa-ab12-6cc53ed51f70)
 
  # Task 3
+ 
+ sky 130
+ 
+ ![Screenshot from 2024-02-22 22-21-53](https://github.com/Cjkiran/VSDSquadron-Mini-Research-/assets/123364901/b443e08d-29b9-4fb9-bd64-9a144ef0bb0c)
+ 
+ RTL and TB Files 
+ ![Screenshot from 2024-02-22 22-23-22](https://github.com/Cjkiran/VSDSquadron-Mini-Research-/assets/123364901/ddf4b2b5-1648-453a-8788-b6ec385eb22d
+ 
+ Basics of Functional Simulation.
+ 
+ ![Screenshot from 2024-02-22 22-30-43](https://github.com/Cjkiran/VSDSquadron-Mini-Research-/assets/123364901/0491a736-c9d8-4a9c-bfb9-516c5e8859ec)
 
+
+ 
+
+  
 
 
 
