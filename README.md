@@ -56,18 +56,20 @@ Identifying Input ports, input waveforms, output ports and output waveforms for 
 
  # Task 4 on 29/02/2024
 
- Invoke yosys 
+ * Invoke yosys 
 
  ![Screenshot from 2024-02-24 23-00-20](https://github.com/Cjkiran/VSDSquadron-Mini-Research-/assets/123364901/77facdb0-2532-4204-8e00-e27559298e74)
 
  yosys > synth -top file name 
 
- step1
+ * step1
 ![Screenshot from 2024-02-29 12-04-19](https://github.com/Cjkiran/VSDSquadron-Mini-Research-/assets/123364901/8f703ffd-c356-434e-aed4-b16cdc5318b5)
 
- yosys synthesis commands 
+ * yosys synthesis commands 
  
- ![Screenshot from 2024-02-29 12-04-19](https://github.com/Cjkiran/VSDSquadron-Mini-Research-/assets/123364901/0219b606-f052-4696-990e-ddece399127d)
+ ![Screenshot from 2024-02-29 12-04-19](https://github.com/Cjkiran/VSDSquadron-Mini-Research-/assets/123364901/0219b606-f052-4696-990e-ddece399127d
+ 
+ * ABC exeacting pass  
  
  ![Screenshot from 2024-02-29 12-11-02](https://github.com/Cjkiran/VSDSquadron-Mini-Research-/assets/123364901/d9201e13-9ef8-4724-9d26-8c87d04203b4)
 
