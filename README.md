@@ -63,7 +63,7 @@ Identifying Input ports, input waveforms, output ports and output waveforms for 
  yosys > synth -top file name 
 
  step1
- ![Screenshot from 2024-02-29 12-04-03](https://github.com/Cjkiran/VSDSquadron-Mini-Research-/assets/123364901/bebf6105-a142-478a-90dc-cfee564fd79c)
+![Screenshot from 2024-02-29 12-04-19](https://github.com/Cjkiran/VSDSquadron-Mini-Research-/assets/123364901/8f703ffd-c356-434e-aed4-b16cdc5318b5)
 
  yosys synthesis commands 
 
