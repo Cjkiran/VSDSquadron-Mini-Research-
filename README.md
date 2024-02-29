@@ -54,29 +54,26 @@ Identifying Input ports, input waveforms, output ports and output waveforms for 
  
  ![Screenshot from 2024-02-22 22-30-43](https://github.com/Cjkiran/VSDSquadron-Mini-Research-/assets/123364901/0491a736-c9d8-4a9c-bfb9-516c5e8859ec)
 
- # Task 4 
+ # Task 4 on 29/02/2024
+
+ Invoke yosys 
+
+ ![Screenshot from 2024-02-24 23-00-20](https://github.com/Cjkiran/VSDSquadron-Mini-Research-/assets/123364901/77facdb0-2532-4204-8e00-e27559298e74)
+
+ yosys > synth -top file name 
+
+ step1
+ ![Screenshot from 2024-02-29 12-04-03](https://github.com/Cjkiran/VSDSquadron-Mini-Research-/assets/123364901/bebf6105-a142-478a-90dc-cfee564fd79c)
+
+ yosys synthesis commands 
+
+ ![Screenshot from 2024-02-29 12-04-19](https://github.com/Cjkiran/VSDSquadron-Mini-Research-/assets/123364901/24af13e8-168a-4500-ab20-3ff5a27ec05f)
  
+ ![Screenshot from 2024-02-29 12-06-31](https://github.com/Cjkiran/VSDSquadron-Mini-Research-/assets/123364901/4c7042ac-8827-448a-8203-c836d8b05384)
 
-![Screenshot from 2024-02-29 12-06-31](https://github.com/Cjkiran/VSDSquadron-Mini-Research-/assets/123364901/a3024312-4217-4644-9391-626c34e631b2)
+ ![Screenshot from 2024-02-29 12-06-58](https://github.com/Cjkiran/VSDSquadron-Mini-Research-/assets/123364901/2458aa36-511e-4e0c-8ff5-56c820b8a4b4)
 
-
-![Screenshot from 2024-02-29 12-11-02](https://github.com/Cjkiran/VSDSquadron-Mini-Research-/assets/123364901/d113cb4c-0834-4de9-ae60-17b32cda9e15)
-
- 
-![Screenshot from 2024-02-29 12-06-58](https://github.com/Cjkiran/VSDSquadron-Mini-Research-/assets/123364901/92fbd5d3-0095-46f5-8159-b6e69ef32b18)
-
-
-  
-
-
-
-
-
-
-
-
-
-
+![Screenshot from 2024-02-29 12-06-58](https://github.com/Cjkiran/VSDSquadron-Mini-Research-/assets/123364901/6af9152b-6dac-460e-8fa4-702ac2789f25)
 
 
 
