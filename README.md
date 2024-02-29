@@ -66,8 +66,6 @@ Identifying Input ports, input waveforms, output ports and output waveforms for 
 ![Screenshot from 2024-02-29 12-04-19](https://github.com/Cjkiran/VSDSquadron-Mini-Research-/assets/123364901/8f703ffd-c356-434e-aed4-b16cdc5318b5)
 
  yosys synthesis commands 
-
- ![Screenshot from 2024-02-29 12-04-19](https://github.com/Cjkiran/VSDSquadron-Mini-Research-/assets/123364901/24af13e8-168a-4500-ab20-3ff5a27ec05f)
  
  ![Screenshot from 2024-02-29 12-04-19](https://github.com/Cjkiran/VSDSquadron-Mini-Research-/assets/123364901/0219b606-f052-4696-990e-ddece399127d)
  
