@@ -54,8 +54,18 @@ Identifying Input ports, input waveforms, output ports and output waveforms for 
  
  ![Screenshot from 2024-02-22 22-30-43](https://github.com/Cjkiran/VSDSquadron-Mini-Research-/assets/123364901/0491a736-c9d8-4a9c-bfb9-516c5e8859ec)
 
+ # Task 4 
+ ![Screenshot from 2024-02-29 12-11-02](https://github.com/Cjkiran/VSDSquadron-Mini-Research-/assets/123364901/35eb13f7-a8f6-4dbd-a772-7adb6aac5b09)
+
+![Screenshot from 2024-02-29 12-06-31](https://github.com/Cjkiran/VSDSquadron-Mini-Research-/assets/123364901/a3024312-4217-4644-9391-626c34e631b2)
+
+![Screenshot from 2024-02-29 12-06-39](https://github.com/Cjkiran/VSDSquadron-Mini-Research-/assets/123364901/ef4fdaf8-9954-4572-902d-b05d36ea0daa)
+
+![Screenshot from 2024-02-29 12-11-02](https://github.com/Cjkiran/VSDSquadron-Mini-Research-/assets/123364901/d113cb4c-0834-4de9-ae60-17b32cda9e15)
 
  
+![Screenshot from 2024-02-29 12-06-58](https://github.com/Cjkiran/VSDSquadron-Mini-Research-/assets/123364901/92fbd5d3-0095-46f5-8159-b6e69ef32b18)
+
 
   
 
