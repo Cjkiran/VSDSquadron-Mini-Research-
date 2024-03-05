@@ -75,7 +75,23 @@ Identifying Input ports, input waveforms, output ports and output waveforms for 
 
  ![Screenshot from 2024-02-29 12-06-58](https://github.com/Cjkiran/VSDSquadron-Mini-Research-/assets/123364901/2458aa36-511e-4e0c-8ff5-56c820b8a4b4)
 
+ # Task 5 on 05/03/2024-Verilog netlist and testbench for functional simulation experiment.
+* step 1 verilog code
+  ![rtl code](https://github.com/Cjkiran/VSDSquadron-Mini-Research-/assets/123364901/2b13265b-571b-496a-916d-612387b075dd)
+* step 2 Tb
+  ![TB code](https://github.com/Cjkiran/VSDSquadron-Mini-Research-/assets/123364901/2e038455-5e07-475b-902f-656706e8e2d9)
+* step 3 Pre-Synthesis Simulation
+  ![Screenshot 2024-03-04 224850](https://github.com/Cjkiran/VSDSquadron-Mini-Research-/assets/123364901/e4b355d9-c475-4a8d-a7d5-198de97f82e7)
+* step 4 RTL simulation waveform
+  ![wave form 21 ](https://github.com/Cjkiran/VSDSquadron-Mini-Research-/assets/123364901/ba92942e-adf2-4554-915d-745204bf3de2)
+* Timing report
+ <img width="413" alt="image" src="https://github.com/Cjkiran/VSDSquadron-Mini-Research-/assets/123364901/9e0d5aa9-9e49-4076-a119-838d903e8cef">
 
+  
+
+
+
+ 
 
 
 
