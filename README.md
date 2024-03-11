@@ -92,6 +92,15 @@ Identifying Input ports, input waveforms, output ports and output waveforms for 
 * Timing report
  <img width="413" alt="image" src="https://github.com/Cjkiran/VSDSquadron-Mini-Research-/assets/123364901/9e0d5aa9-9e49-4076-a119-838d903e8cef">
 
+ 
+ # Acknowledgement
+ * Kunal Ghosh, Director, VSD Corp. Pvt. Ltd.
+ #  Reference
+ * Kunal Ghosh, Diretor, VSD Corp. Pvt. Ltd., # kunalpghosh@gmail.com
+ * Lokesh Maji, M.Tech - VLSI, Batch: 2022-24, IIITB, # majilokesh10@gmail.com
+   
+ 
+
   
 
 
