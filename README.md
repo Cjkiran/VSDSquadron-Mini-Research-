@@ -67,7 +67,7 @@ Identifying Input ports, input waveforms, output ports and output waveforms for 
 
  * yosys synthesis commands 
  
- ![Screenshot from 2024-02-29 12-04-19](https://github.com/Cjkiran/VSDSquadron-Mini-Research-/assets/123364901/0219b606-f052-4696-990e-ddece399127d
+ ![Screenshot from 2024-02-29 12-04-19](https://github.com/Cjkiran/VSDSquadron-Mini-Research-/assets/123364901/0219b606-f052-4696-990e-ddece399127d)
  
  * ABC exeacting pass  
  
@@ -80,17 +80,21 @@ Identifying Input ports, input waveforms, output ports and output waveforms for 
   ![rtl code](https://github.com/Cjkiran/VSDSquadron-Mini-Research-/assets/123364901/2b13265b-571b-496a-916d-612387b075dd)
 * step 2 Tb
   ![TB code](https://github.com/Cjkiran/VSDSquadron-Mini-Research-/assets/123364901/2e038455-5e07-475b-902f-656706e8e2d9)
-* Synthesis
- 
+#  Synthesis
   ![net](https://github.com/Cjkiran/VSDSquadron-Mini-Research-/assets/123364901/3805f9a1-56a0-4810-ad46-41c099c6c2dc)
 * step 3 Pre-Synthesis Simulation
   ![Screenshot 2024-03-04 224850](https://github.com/Cjkiran/VSDSquadron-Mini-Research-/assets/123364901/e4b355d9-c475-4a8d-a7d5-198de97f82e7)
-* step 4 RTL simulation waveform
+  
+# step 4 RTL simulation waveform
   ![wave form 21 ](https://github.com/Cjkiran/VSDSquadron-Mini-Research-/assets/123364901/ba92942e-adf2-4554-915d-745204bf3de2)
-* Netlist
-* ![sy](https://github.com/Cjkiran/VSDSquadron-Mini-Research-/assets/123364901/88eb3963-2b72-4d67-97d2-fed90720cb63)
-* Timing report
- <img width="413" alt="image" src="https://github.com/Cjkiran/VSDSquadron-Mini-Research-/assets/123364901/9e0d5aa9-9e49-4076-a119-838d903e8cef">
+  
+# Netlist
+ ![sy](https://github.com/Cjkiran/VSDSquadron-Mini-Research-/assets/123364901/88eb3963-2b72-4d67-97d2-fed90720cb63)
+  # GLS design /Dot view
+  <img width="518" alt="dot view" src="https://github.com/Cjkiran/VSDSquadron-Mini-Research-/assets/123364901/622abc46-2754-431f-9d95-35805caa7d1b">
+
+ # Timing report
+  <img width="413" alt="image" src="https://github.com/Cjkiran/VSDSquadron-Mini-Research-/assets/123364901/9e0d5aa9-9e49-4076-a119-838d903e8cef">
 
  
  # Acknowledgement
