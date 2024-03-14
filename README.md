@@ -89,7 +89,17 @@ Identifying Input ports, input waveforms, output ports and output waveforms for 
   ![wave form 21 ](https://github.com/Cjkiran/VSDSquadron-Mini-Research-/assets/123364901/ba92942e-adf2-4554-915d-745204bf3de2)
   
 # Netlist
- ![sy](https://github.com/Cjkiran/VSDSquadron-Mini-Research-/assets/123364901/88eb3963-2b72-4d67-97d2-fed90720cb63)
+   * Netlist file of TLC
+     
+   <img width="464" alt="tcl 1" src="https://github.com/Cjkiran/VSDSquadron-Mini-Research-/assets/123364901/a4772932-74a2-425a-991a-a2967259b4a2">
+   
+   *simplified Netlist file of TLC
+   
+   <img width="463" alt="tcl 2" src="https://github.com/Cjkiran/VSDSquadron-Mini-Research-/assets/123364901/2c845668-f060-4b59-bddd-94e0b2485863">
+   
+   *
+   ![sy](https://github.com/Cjkiran/VSDSquadron-Mini-Research-/assets/123364901/88eb3963-2b72-4d67-97d2-fed90720cb63)
+ 
   # GLS design /Dot view
   <img width="518" alt="dot view" src="https://github.com/Cjkiran/VSDSquadron-Mini-Research-/assets/123364901/622abc46-2754-431f-9d95-35805caa7d1b">
 
