@@ -106,6 +106,10 @@ Identifying Input ports, input waveforms, output ports and output waveforms for 
  # Timing report
   <img width="413" alt="image" src="https://github.com/Cjkiran/VSDSquadron-Mini-Research-/assets/123364901/9e0d5aa9-9e49-4076-a119-838d903e8cef">
 
+  # wave form 
+  <img width="641" alt="wave form gtk" src="https://github.com/Cjkiran/VSDSquadron-Mini-Research-/assets/123364901/bfc274d2-21eb-48f7-ab5e-358cd8eae096">
+
+
  
  # Acknowledgement
  * Kunal Ghosh, Director, VSD Corp. Pvt. Ltd.
