@@ -110,6 +110,8 @@ Identifying Input ports, input waveforms, output ports and output waveforms for 
   * GTKWave form for the TRAFFIC LIGHT CONTROLLER
     
     <img width="409" alt="gtk wave form " src="https://github.com/Cjkiran/VSDSquadron-Mini-Research-/assets/123364901/561a423a-2585-452c-a19f-39ee47f2a665">
+    
+    * GTKWAVE of netlist
 
     <img width="641" alt="wave form gtk" src="https://github.com/Cjkiran/VSDSquadron-Mini-Research-/assets/123364901/bfc274d2-21eb-48f7-ab5e-358cd8eae096">
 
