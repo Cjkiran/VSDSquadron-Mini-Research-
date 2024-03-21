@@ -85,7 +85,7 @@ Identifying Input ports, input waveforms, output ports and output waveforms for 
 * step 3 Pre-Synthesis Simulation
   ![Screenshot 2024-03-04 224850](https://github.com/Cjkiran/VSDSquadron-Mini-Research-/assets/123364901/e4b355d9-c475-4a8d-a7d5-198de97f82e7)
   
-# step 4 RTL simulation waveform
+# waveform
   ![wave form 21 ](https://github.com/Cjkiran/VSDSquadron-Mini-Research-/assets/123364901/ba92942e-adf2-4554-915d-745204bf3de2)
   
 # Netlist
